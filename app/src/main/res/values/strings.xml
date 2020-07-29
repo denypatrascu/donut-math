@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Donut Calculator</string>
+
+    <string name="nav_header_title">"DonutCalculator"</string>
+    <string name="nav_header_subtitle">Android</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="home_second">Home Second</string>
+
+    <string name="menu_home">Standard</string>
+    <string name="action_settings">About</string>
+    <string name="button_0">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_point">.</string>
+    <string name="button_equal">🍩</string>
+    <string name="button_plus">➕</string>
+    <string name="button_minus">➖</string>
+    <string name="button_multiply">✖️</string>
+    <string name="button_divide">➗</string>
+    <string name="button_left_bracket">(</string>
+    <string name="button_right_bracket">)</string>
+    <string name="button_clear">C</string>
+    <string name="button_delete">DEL</string>
+    <string name="button_sin">sin</string>
+    <string name="button_cos">cos</string>
+    <string name="button_tan">tan</string>
+    <string name="button_cot">cot</string>
+    <string name="button_sqrt">√</string>
+    <string name="button_power">^</string>
+    <string name="button_log">log</string>
+    <string name="button_ln">ln</string>
+    <string name="button_pi">π</string>
+    <string name="button_e">e</string>
+    <string name="author">Author: Deny C. Pătrașcu, Version: 1.0.0</string>
+</resources>

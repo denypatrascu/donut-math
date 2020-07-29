@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8D6E63</color>
+    <color name="colorPrimaryDark">#5F4339</color>
+    <color name="colorAccent">#BE9C91</color>
+
+
+    <color name="ripple1_color">#A1887f</color>
+    <color name="ripple1_background">#BE9C91</color>
+
+    <color name="ripple2_color">#5F4339</color>
+    <color name="ripple2_background">#8D6E63</color>
+
+    <color name="ripple3_color">#BDB9B7</color>
+    <color name="ripple3_background">#EFEBE9</color>
+</resources>
